@@ -1,48 +1,117 @@
-### WhatsApp Bug Bot By `Tech God`
-Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
-### Bot Features
-*⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
 
 
-# Heroku deploy setup
-
-
-   1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
-3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
-
-4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
-5.  - Now watch this tutorial [Video](https://youtu.be/hjjzFlZmRqk) for `Deploy Bot`
-
-
-
-## `Heroku` buildpacks
-1. buildpack
--     heroku/nodejs
-   
-2. buildpack
--     https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-3. buildpack
-
--     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
-
-
-
-
-#  important 👇 for you
-
-<div align="center">
-<a href="https://www.instagram.com/techgod143/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+TECH+GOD" alt="Typing SVG" /></a>
-  
-# YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@techgod143)
-
-# contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<h1 align="center">ꪶSarkar Bot-MD 𝗩8ꫂ<br></h1>
+<p align="center">
+<img src="https://i.ibb.co/cLtCXVm/cheemspic.jpg" width="540" height="280" />
 </p>
-<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<p align="center">
+Sarkar bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/sarKarji1" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
+
+<p align="center">
+<a href="https://youtu.be/L_SIk59QeAU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+</p>
+
+------
+
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/sarKarji1/followers"><img title="Followers" src="https://img.shields.io/github/followers/sarKarji1?color=red&style=flat-square"></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sarKarji1/SarkarBot-MD8?color=blue&style=flat-square"></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sarKarji1/SarkarBot-MD8?color=red&style=flat-square"></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sarKarji1/SarkarBot-MD8?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8/"><img title="Size" src="https://img.shields.io/github/repo-size/sarKarji1/SarkarBot-MD8?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsarKarji1%2FSarkarBot-MD8&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/sarKarji1/SarkarBot-MD8/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+
+-------
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/923253617422"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/@sarkarjiteach"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@sarKarji1" /><br>
+</p>
+
+<!---## ```Donate Me```
+
+- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+
+ <p align="left">
+Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
+</p>
+
+## ```Bot Support Group Chats```
+
+- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
+- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
+- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
+
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/sarKarji1/SarkarBot-MD8/fork)
+
+## `Scan QR Code For Session`
+[![Sarkar bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sarKarji1/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarKarji1/SarkarBot-MD8/) -->
+
+# Install Manually 👇
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/sarKarji1/SarkarBot-MD8.git
+cd SarkarBot-MD8
+
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/sarKarji1/SarkarBot-MD8
+cd SarkarBot-MD8
+yarn install
+npm start
+```
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/sarKarji1/SarkarBot-MD8
+cd SarkarBot-MD8
+npm start
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```

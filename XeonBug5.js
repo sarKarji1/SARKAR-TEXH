@@ -2471,16 +2471,16 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-                let xeonmenuoh = `╭══ *❍ 𝗧𝗘𝗖𝗛_𝗚𝗢𝗗-BUG_BOT ❍*
+                let xeonmenuoh = `╭══ *❍ E-D-I-T-H_BUG_BOT ❍*
 ┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User:* ${pushname}
-╰┈➤ ${xeonytimewisher} 😄  My bro
-⚠️⚠️ ~Don't forget to subscribe~ 
-*Tech god* ~Youtube Channel~ ⚠️⚠️
-_Any help: yt link http://www.youtube.com/@techgod143_
+╰┈➤ ${xeonytimewisher} 😄  MY DEAR
+😎 ~E-D-I-T-H~ 😎
+😎~EVEN DEAD I AM THE HERO~😎 
+_
 ╰═════════════════⊷
-╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
+╭═══❂E-D-I-T-H 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
 ┃ ❏ *x <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
 ┃ ❏ *x2 <ᴀᴍᴏᴜɴᴛ>*
@@ -2521,7 +2521,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ᴘᴍʙᴜɢ*
 ┃ ❏ *ᴛʀᴏʟʟʏʙᴜɢ*
 ╰══════════════════⊷
-╭═══❂ 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *ɢᴇᴛsᴇssɪᴏɴ*
 ┃ ❏ *ᴅᴇʟᴇᴛᴇsᴇssɪᴏɴ*
 ┃ ❏ *ᴊᴏɪɴ*
@@ -2541,7 +2541,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ᴀᴅᴅᴏᴡɴᴇʀ*
 ┃ ❏ *ᴅᴇʟᴏᴡɴᴇʀ*
 ╰══════════════════⊷
-╭═══❂ 𝗚𝗥𝗢𝗨𝗣 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗚𝗥𝗢𝗨𝗣 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *ᴄʟᴏsᴇᴛɪᴍᴇ*
 ┃ ❏ *ᴏᴘᴇɴᴛɪᴍᴇ*
 ┃ ❏ *ᴋɪᴄᴋ*
@@ -2559,7 +2559,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ʀᴇᴠᴏᴋᴇ*
 ┃ ❏ *ʟɪsᴛᴏɴʟɪɴᴇ*
 ╰══════════════════⊷
-╭═══❂ 𝗠𝗔𝗜𝗡 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗠𝗔𝗜𝗡 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *ᴍᴇɴᴜ*
 ┃ ❏ *ʜᴇʟᴘ*
 ┃ ❏ *ʟɪsᴛ*
@@ -2572,7 +2572,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *sᴡᴍ*
 ┃ ❏ *ʙᴄɢᴄ*
 ╰══════════════════⊷
-╭═══❂ 𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *sᴛɪᴄᴋᴇʀ*
 ┃ ❏ *sᴍᴇᴍᴇ*
 ┃ ❏ *ᴛᴀᴋᴇ*
@@ -2588,7 +2588,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ғʟɪᴘᴛᴇxᴛ*
 ┃ ❏ *ᴇᴍᴏᴊɪᴍɪx*
 ╰══════════════════⊷
-╭═══❂ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *ᴀᴅᴅᴠɪᴅᴇᴏ*
 ┃ ❏ *ᴀᴅᴅɪᴍᴀɢᴇ*
 ┃ ❏ *ᴀᴅᴅsᴛɪᴄᴋᴇʀ*
@@ -2611,7 +2611,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ʟɪsᴛᴀᴘᴋ*
 ┃ ❏ *ʟɪsᴛᴘᴅғ*
 ╰══════════════════⊷
-╭═══❂ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗠𝗘𝗡𝗨 ❂
+╭═══❂ E-D-I-T-H 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *ᴘʟᴀʏ*
 ┃ ❏ *ʏᴛᴍᴘ3*
 ┃ ❏ *ʏᴛᴍᴘ4*

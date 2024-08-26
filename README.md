@@ -50,14 +50,14 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 - [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
 - [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
+- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q) -->
 
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/sarKarji1/SARKAR-TEXH/fork)
 
 ## `Scan QR Code For Session`
-[![Sarkar bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sarKarji1/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![Sarkar bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@alikhanurfbanda/SarkarMD)
 
 ## ` BUILDPACKS`
 
